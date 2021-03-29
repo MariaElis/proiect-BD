@@ -1,0 +1,2 @@
+# proiect-BD
+ Atelierul de haine pentru copii este o aplicație care își propune simularea interacțiunii din cadrul unui  atelier ce confecționează haine pentru copii și găsirea unor soluții practice de administrare a atelierului.  Baza de date conține informații despre angajați, departamente precum și date cu caracter confidențial  pentru angajați ,produse vestimentare, mărimi și materialele folosite. Responsabilitățile sunt impartite  croitorilor,manager-ilor si designer-ului .
